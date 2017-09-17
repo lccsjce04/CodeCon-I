@@ -1,0 +1,5 @@
+Given an integer,n, find each x such that:
+--> 0 <= x < n 
+--> n+x= n^x 
+where ^ denotes the bitwise XOR operator. Then print an integer denoting the total number of x's satisfying the criteria above.
+

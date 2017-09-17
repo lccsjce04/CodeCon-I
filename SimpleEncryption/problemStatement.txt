@@ -1,0 +1,18 @@
+Simple Encryption program.
+
+
+Input: String s
+
+Output:String e (Encrypted String of s)
+
+The rules for Encryption are as follows:
+
+i)Convert all the consonants in s: 
+	-> To its next consonant( Alphabetically )
+ii)Convert all the vowels in s:
+	-> To its number equivalent. 
+	(a=1, b=2, c=3, d=4, e=5)
+iii)Convert all the digits in s:
+	->To its alphabet equivalent.
+	(1=a, b=2 ... i=9, j=0)
+iv)Space to *

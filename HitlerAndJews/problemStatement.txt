@@ -1,0 +1,1 @@
+A group of Jews are caught by Hitler and he decides to execute them in a different way. Each jew is given with an index starting from 1 to n. In the first pass, he kills every 2nd person. In the second pass, he kills every 3rd person out of the remaining people and so on. You need to find the people who survived after the execution process.

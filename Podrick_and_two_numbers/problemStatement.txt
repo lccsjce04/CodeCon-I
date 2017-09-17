@@ -1,0 +1,1 @@
+Podrick Payne likes to play with numbers. As a part of his training Brienne asked him to convert a number into another number by changing the bits of the first number. So Podrick has to count the number of bits to be flipped. Can you help to do that?

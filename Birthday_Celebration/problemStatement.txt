@@ -1,0 +1,5 @@
+Srivatsa buys a circular cake from Aroma Bakery to celebrate Sandesh's birthday. But, he needs your help in distributing the cake among the people gathered in the party.
+
+Given the total number of cuts he can make, output the maximum number of pieces he can get out of the cake.
+
+Note : He cannot move the cake or any of the cake pieces. He can only cut them vertically.
